@@ -1,5 +1,5 @@
 ## Create a new branch: 
-- it switches to it once created (ex: You are at the main branch and created foo_dev branch with this command. Git will switch from main to foo_dev). 
+- It switches to it once created (ex: You are at the main branch and created foo_dev branch with this command. Git will switch from main to foo_dev). 
 
 ```
 git checkout -b ADD_THE_NEW_BRANCH_NAME_HERE
